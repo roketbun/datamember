@@ -1,4 +1,5 @@
-Admin
+raw_input("""Admin
 Arok
 Admin1
 Admin12
+""")
